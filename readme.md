@@ -19,7 +19,7 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
 -
 
-*I can also be reached on [Twitter](https://twitter.com/thelarkinn) and [email](mailto:sean.larkin@cuw.edu), but I prefer [this medium](https://github.com/thelarkinn/ama/issues/new).*
+*I can also be reached on [Twitter](https://twitter.com/felipeplets) and [email](mailto:felipe@plets.me), but I prefer [this medium](https://github.com/felipeplets/ama/issues/new).*
 
 -
 
@@ -27,4 +27,4 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](../../fork)
-- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#AMAs_(%22Ask_Me_Anything%22))
